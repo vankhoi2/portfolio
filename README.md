@@ -1,2 +1,2 @@
 # portfolio
-Hồ sơ năng 
+Hồ sơ năng lực
